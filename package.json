@@ -1,6 +1,6 @@
 {
   "name": "@codeflows/react-native-mixpanel",
-  "version": "1.2.0",
+  "version": "1.2.0-patch1",
   "description": "A React Native wrapper for Mixpanel tracking",
   "main": "index.js",
   "repository": {

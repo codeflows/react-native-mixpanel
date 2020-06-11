@@ -1,4 +1,4 @@
-declare module 'react-native-mixpanel' {
+declare module '@codeflows/react-native-mixpanel' {
   export class MixpanelInstance {
     constructor(apiToken?: string, optOutTrackingDefault?: boolean, trackCrashes?: boolean, automaticPushTracking?: boolean, launchOptions?: Object)
 
